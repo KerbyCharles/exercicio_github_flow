@@ -1,3 +1,3 @@
 # Calculadora Básica
-# Desenvolvedor A: Implementar a função de soma aqui
+def soma(a, b): return a + bx
 # Desenvolvedor B: Implementar a função de subtraçã aqui
